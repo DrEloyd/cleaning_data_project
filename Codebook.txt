@@ -1,0 +1,6 @@
+Coursera Getting and Cleaning Data Project Code Book
+Unfortunately, I ran out of time to properly complete this document....
+
+Data Cleaning Process
+
+Set comments in R script
